@@ -7,7 +7,6 @@ I do my best work with:
 ![](https://img.shields.io/badge/Node.js-0?style=flat-square&logo=Node.js&color=509941&logoColor=FFF)
 ![](https://img.shields.io/badge/Material_UI-0?style=flat-square&logo=MUI&color=007FFF&logoColor=FFF)
 ![](https://img.shields.io/badge/Figma-0?style=flat-square&logo=Figma&color=F24E1E&logoColor=FFF)
-![](https://img.shields.io/badge/VS_Code-0?style=flat-square&logo=VisualStudioCode&color=0066b8&logoColor=FFF)
 
 Experienced using LLMs:
 
