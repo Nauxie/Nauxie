@@ -1,5 +1,4 @@
-Hi, I'm Abhinav, a full stack engineer focused on building applications powered by LLMs. I enjoy exploring the potential of AI in daily life and creating innovative solutions. 🌟
-
+Hi, I'm Abhinav, a full stack engineer focused on building applications powered by LLMs.
 I do my best work with:
 
 ![](https://img.shields.io/badge/TypeScript-0?style=flat-square&logo=typescript&color=3178c6&logoColor=FFF)
