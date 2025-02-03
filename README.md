@@ -11,8 +11,12 @@ Experienced using LLMs:
 
 ![](https://img.shields.io/badge/GPT-0?style=flat-square&logo=OpenAI&color=412991&logoColor=FFF)
 ![](https://img.shields.io/badge/Claude-0?style=flat-square&logo=Anthropic&color=191919&logoColor=FFF)
-![](https://img.shields.io/badge/Llama-0?style=flat-square&logo=Meta&color=0467DF&logoColor=FFF)
 ![](https://img.shields.io/badge/Gemini-0?style=flat-square&logo=googlegemini&color=8E75B2&logoColor=FFF)
+![](https://img.shields.io/badge/Llama-0?style=flat-square&logo=Meta&color=0467DF&logoColor=FFF)
+
+I also dabble in game dev with:
+![](https://img.shields.io/badge/Unreal%20Engine-0?style=flat-square&logo=unrealengine&color=23282C&logoColor=FFF)
+![](https://img.shields.io/badge/Roblox%20Studio-0?style=flat-square&logo=roblox&color=FF0000&logoColor=FFF)
 
 
 <!-- Add any additional content you'd like to include here -->
