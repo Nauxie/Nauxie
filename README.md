@@ -1,4 +1,4 @@
-Hi, I'm Abhinav, a full stack engineer focused on building applications powered by LLMs.
+Hi, I'm Abhinav, a full stack engineer focused on building applications powered by language models.
 I do my best work with:
 
 ![](https://img.shields.io/badge/TypeScript-0?style=flat-square&logo=typescript&color=3178c6&logoColor=FFF)
@@ -7,7 +7,7 @@ I do my best work with:
 ![](https://img.shields.io/badge/Material_UI-0?style=flat-square&logo=MUI&color=007FFF&logoColor=FFF)
 ![](https://img.shields.io/badge/Figma-0?style=flat-square&logo=Figma&color=F24E1E&logoColor=FFF)
 
-Experienced using LLMs:
+Experienced using models:
 
 ![](https://img.shields.io/badge/GPT-0?style=flat-square&logo=OpenAI&color=412991&logoColor=FFF)
 ![](https://img.shields.io/badge/Claude-0?style=flat-square&logo=Anthropic&color=191919&logoColor=FFF)
