@@ -4,8 +4,6 @@ I do my best work with:
 ![](https://img.shields.io/badge/TypeScript-0?style=flat-square&logo=typescript&color=3178c6&logoColor=FFF)
 ![](https://img.shields.io/badge/Next.js-0?style=flat-square&logo=Next.js&color=000000&logoColor=FFF)
 ![](https://img.shields.io/badge/Node.js-0?style=flat-square&logo=Node.js&color=509941&logoColor=FFF)
-![](https://img.shields.io/badge/Material_UI-0?style=flat-square&logo=MUI&color=007FFF&logoColor=FFF)
-![](https://img.shields.io/badge/Figma-0?style=flat-square&logo=Figma&color=F24E1E&logoColor=FFF)
 
 Experienced using models:
 
