@@ -12,11 +12,6 @@ Experienced using models:
 ![](https://img.shields.io/badge/Gemini-0?style=flat-square&logo=googlegemini&color=8E75B2&logoColor=FFF)
 ![](https://img.shields.io/badge/Llama-0?style=flat-square&logo=Meta&color=0467DF&logoColor=FFF)
 
-I also do some game dev mainly using:
-
-![](https://img.shields.io/badge/Unreal-0?style=flat-square&logo=unrealengine&color=23282C&logoColor=FFF)
-![](https://img.shields.io/badge/Roblox%20Studio-0?style=flat-square&logo=roblox&color=FF0000&logoColor=FFF)
-
 
 <!-- Add any additional content you'd like to include here -->
 
