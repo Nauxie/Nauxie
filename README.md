@@ -2,9 +2,9 @@ Hi, I'm Abhinav, an engineer focused on building applications powered by generat
 I do my best work with:
 
 ![](https://img.shields.io/badge/TypeScript-0?style=flat-square&logo=typescript&color=3178c6&logoColor=FFF)
-![](https://img.shields.io/badge/Next.js-0?style=flat-square&logo=Next.js&color=000000&logoColor=FFF)
 ![](https://img.shields.io/badge/Node.js-0?style=flat-square&logo=Node.js&color=509941&logoColor=FFF)
-![](https://img.shields.io/badge/Node.js-0?style=flat-square&logo=PyTorch&color=EE4C2C&logoColor=FFF)
+![](https://img.shields.io/badge/Next.js-0?style=flat-square&logo=Next.js&color=000000&logoColor=FFF)
+![](https://img.shields.io/badge/PyTorch-0?style=flat-square&logo=PyTorch&color=EE4C2C&logoColor=FFF)
 
 Experienced using & fine-tuning models:
 
