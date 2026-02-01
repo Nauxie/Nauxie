@@ -8,7 +8,7 @@ I do my best work with:
 
 Experienced using & fine-tuning models:
 
-![](https://img.shields.io/badge/GPT-0?style=flat-square&logo=OpenAI&color=412991&logoColor=FFF)
+![](https://img.shields.io/badge/GPT-0?style=flat-square&logo=openaigym&color=412991&logoColor=FFF)
 ![](https://img.shields.io/badge/Claude-0?style=flat-square&logo=Anthropic&color=191919&logoColor=FFF)
 ![](https://img.shields.io/badge/Gemini-0?style=flat-square&logo=googlegemini&color=8E75B2&logoColor=FFF)
 ![](https://img.shields.io/badge/Llama-0?style=flat-square&logo=Meta&color=0467DF&logoColor=FFF)
