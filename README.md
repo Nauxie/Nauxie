@@ -6,7 +6,7 @@ I do my best work with:
 ![](https://img.shields.io/badge/Next.js-0?style=flat-square&logo=Next.js&color=000000&logoColor=FFF)
 ![](https://img.shields.io/badge/PyTorch-0?style=flat-square&logo=PyTorch&color=EE4C2C&logoColor=FFF)
 
-Experienced using & fine-tuning models:
+Experienced building with:
 
 ![](https://img.shields.io/badge/GPT-0?style=flat-square&logo=openaigym&color=412991&logoColor=FFF)
 ![](https://img.shields.io/badge/Claude-0?style=flat-square&logo=Anthropic&color=191919&logoColor=FFF)
